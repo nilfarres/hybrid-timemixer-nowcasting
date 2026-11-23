@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the accompanying research article when available."
+title: "Hybrid-TimeMixer for single-station temperature and precipitation nowcasting"
+type: software
+authors:
+  - family-names: "Farrés Soler"
+    given-names: "Nil"
+license: MIT
+keywords:
+  - nowcasting
+  - time series
+  - probabilistic forecasting
+  - temperature
+  - precipitation

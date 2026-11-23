@@ -1,0 +1,10 @@
+# Direct runtime dependencies. This is not the original training environment lock.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+tqdm>=4.66
+torch>=2.1
+requests>=2.31
+pillow>=9.4
+tzdata>=2023.3
